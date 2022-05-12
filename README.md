@@ -1,2 +1,2 @@
 # shopify_analytics
-Pull live sales and inventory data using graphql and python
+Pull live sales and inventory data using graphql and python.
